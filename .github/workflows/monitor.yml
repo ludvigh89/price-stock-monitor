@@ -3,7 +3,7 @@ name: Price monitor
 on:
   # 04:00 UTC = 07:00 за Києвом влітку (взимку — 06:00)
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "37 3 * * *"
   # кнопка ручного запуску у вкладці Actions
   workflow_dispatch:
 
