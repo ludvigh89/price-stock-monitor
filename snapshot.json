@@ -5,22 +5,22 @@
    "name": "100% Whey Gold Standard - 2,27 кг",
    "brand": "Optimum Nutrition",
    "url": "https://belok.ua/ua/100-whey-gold-standard/",
-   "price": 4999.0,
-   "old_price": 5555.0,
+   "price": 5259.0,
+   "old_price": 5849.0,
    "in_stock": true,
    "labels": "-10% | В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52527": {
    "pid": "52527",
    "name": "Whey-Pro FUSION - 1 кг",
    "brand": "Amix",
    "url": "https://belok.ua/ua/whey-pro-fusion-1000-g-banana-1/",
-   "price": 2157.0,
+   "price": 2299.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності | Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53716": {
    "pid": "53716",
@@ -31,7 +31,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності | Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53732": {
    "pid": "53732",
@@ -42,7 +42,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52331": {
    "pid": "52331",
@@ -53,7 +53,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52330": {
    "pid": "52330",
@@ -64,7 +64,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53731": {
    "pid": "53731",
@@ -75,29 +75,29 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності | Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50320": {
    "pid": "50320",
    "name": "100% Whey Gold Standard - 909 г",
    "brand": "Optimum Nutrition",
    "url": "https://belok.ua/ua/100-whey-gold-standard/",
-   "price": 2259.0,
-   "old_price": 2526.0,
+   "price": 2359.0,
+   "old_price": 2669.0,
    "in_stock": true,
-   "labels": "-11% | В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "labels": "-12% | В наявності",
+   "scraped_at": "2026-09-18 08:27"
   },
   "52917": {
    "pid": "52917",
    "name": "Whey Protein - 34 г",
    "brand": "Rule 1",
    "url": "https://belok.ua/ua/whey-blend-462-g-vanilnyj-krem-1/",
-   "price": 95.0,
+   "price": 100.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "39681": {
    "pid": "39681",
@@ -108,7 +108,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50613": {
    "pid": "50613",
@@ -119,18 +119,18 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52526": {
    "pid": "52526",
    "name": "Whey-Pro FUSION - 30 г",
    "brand": "Amix",
    "url": "https://belok.ua/ua/whey-pro-fusion-1000-g-banana-1/",
-   "price": 85.0,
+   "price": 90.0,
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52985": {
    "pid": "52985",
@@ -174,7 +174,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52789": {
    "pid": "52789",
@@ -185,29 +185,29 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "32263": {
    "pid": "32263",
    "name": "Whey Protein - 462 г - Ванільний крем",
    "brand": "Rule 1",
    "url": "https://belok.ua/ua/whey-blend-462-g-vanilnyj-krem/",
-   "price": 1235.0,
+   "price": 1295.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53068": {
    "pid": "53068",
    "name": "100% Whey Protein - 2250 г",
    "brand": "Nutrend",
    "url": "https://belok.ua/ua/100-whey-protein-1000-g-vanil-1/",
-   "price": 4498.0,
+   "price": 4899.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52503": {
    "pid": "52503",
@@ -218,18 +218,18 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52842": {
    "pid": "52842",
    "name": "IsoPrime CFM - 2 кг",
    "brand": "Amix",
    "url": "https://belok.ua/ua/isoprime-cfm-500g-cookies-cream-1/",
-   "price": 5588.0,
+   "price": 5788.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "39636": {
    "pid": "39636",
@@ -240,7 +240,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50612": {
    "pid": "50612",
@@ -251,18 +251,18 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52506": {
    "pid": "52506",
    "name": "Amix Gold Whey Protein Isolate - 2280 г",
    "brand": "Amix",
    "url": "https://belok.ua/ua/gold-whey-protein-isolate-2280-g-banana-1/",
-   "price": 5799.0,
+   "price": 5999.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52749": {
    "pid": "52749",
@@ -273,7 +273,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53829": {
    "pid": "53829",
@@ -284,7 +284,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "54125": {
    "pid": "54125",
@@ -295,7 +295,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "54070": {
    "pid": "54070",
@@ -306,7 +306,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52305": {
    "pid": "52305",
@@ -317,7 +317,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "54124": {
    "pid": "54124",
@@ -328,7 +328,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53310": {
    "pid": "53310",
@@ -339,7 +339,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "54123": {
    "pid": "54123",
@@ -350,7 +350,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52106": {
    "pid": "52106",
@@ -361,18 +361,18 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52528": {
    "pid": "52528",
    "name": "Whey-Pro FUSION - 500 г",
    "brand": "Amix",
    "url": "https://belok.ua/ua/whey-pro-fusion-1000-g-banana-1/",
-   "price": 1155.0,
+   "price": 1249.0,
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53717": {
    "pid": "53717",
@@ -383,7 +383,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52327": {
    "pid": "52327",
@@ -394,7 +394,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50357": {
    "pid": "50357",
@@ -405,7 +405,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52326": {
    "pid": "52326",
@@ -416,7 +416,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53071": {
    "pid": "53071",
@@ -427,7 +427,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53933": {
    "pid": "53933",
@@ -438,7 +438,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53777": {
    "pid": "53777",
@@ -449,7 +449,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52107": {
    "pid": "52107",
@@ -460,18 +460,18 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53067": {
    "pid": "53067",
    "name": "100% Whey Protein - 1000 г",
    "brand": "Nutrend",
    "url": "https://belok.ua/ua/100-whey-protein-1000-g-vanil-1/",
-   "price": 1899.0,
+   "price": 1999.0,
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52790": {
    "pid": "52790",
@@ -482,7 +482,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53779": {
    "pid": "53779",
@@ -493,7 +493,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53467": {
    "pid": "53467",
@@ -504,7 +504,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52532": {
    "pid": "52532",
@@ -515,7 +515,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50043": {
    "pid": "50043",
@@ -526,7 +526,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52533": {
    "pid": "52533",
@@ -537,7 +537,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52993": {
    "pid": "52993",
@@ -548,7 +548,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52994": {
    "pid": "52994",
@@ -559,7 +559,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53836": {
    "pid": "53836",
@@ -570,7 +570,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52757": {
    "pid": "52757",
@@ -581,7 +581,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52108": {
    "pid": "52108",
@@ -592,7 +592,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50338": {
    "pid": "50338",
@@ -603,7 +603,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52984": {
    "pid": "52984",
@@ -614,7 +614,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50042": {
    "pid": "50042",
@@ -625,7 +625,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50337": {
    "pid": "50337",
@@ -636,7 +636,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52531": {
    "pid": "52531",
@@ -647,7 +647,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53596": {
    "pid": "53596",
@@ -658,7 +658,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53469": {
    "pid": "53469",
@@ -669,7 +669,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53380": {
    "pid": "53380",
@@ -680,7 +680,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53487": {
    "pid": "53487",
@@ -691,7 +691,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53443": {
    "pid": "53443",
@@ -702,7 +702,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53445": {
    "pid": "53445",
@@ -713,7 +713,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53468": {
    "pid": "53468",
@@ -724,7 +724,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53378": {
    "pid": "53378",
@@ -735,7 +735,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53470": {
    "pid": "53470",
@@ -746,7 +746,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53442": {
    "pid": "53442",
@@ -757,7 +757,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53488": {
    "pid": "53488",
@@ -768,7 +768,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53444": {
    "pid": "53444",
@@ -779,29 +779,29 @@
    "old_price": null,
    "in_stock": false,
    "labels": "Хіт продажу",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "32859": {
    "pid": "32859",
    "name": "Whey Protein - 455 г - Шоколад",
    "brand": "Rule 1",
    "url": "https://belok.ua/ua/r1-whey-blend-476-g-shokolad/",
-   "price": 1235.0,
+   "price": 1295.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53069": {
    "pid": "53069",
    "name": "100% Whey Protein - 400 г",
    "brand": "Nutrend",
    "url": "https://belok.ua/ua/100-whey-protein-1000-g-vanil-1/",
-   "price": 939.0,
+   "price": 1099.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "50614": {
    "pid": "50614",
@@ -823,7 +823,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52788": {
    "pid": "52788",
@@ -834,18 +834,18 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52529": {
    "pid": "52529",
    "name": "Whey-Pro FUSION - 2,3 кг",
    "brand": "Amix",
    "url": "https://belok.ua/ua/whey-pro-fusion-1000-g-banana-1/",
-   "price": 4549.0,
+   "price": 4799.0,
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності | Хіт продажу",
-   "scraped_at": "2026-09-16 08:48"
+   "scraped_at": "2026-09-18 08:27"
   },
   "54109": {
    "pid": "54109",
@@ -856,7 +856,7 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-16 08:48"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52359": {
    "pid": "52359",
@@ -874,11 +874,11 @@
    "name": "Amix Gourmet Protein - 1 кг",
    "brand": "Amix",
    "url": "https://belok.ua/ua/gourmet-protein-1000g-strawberry-white-choco-1/",
-   "price": 1855.0,
+   "price": 1995.0,
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53778": {
    "pid": "53778",
@@ -889,18 +889,18 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "52530": {
    "pid": "52530",
    "name": "IsoPrime CFM - 500 г",
    "brand": "Amix",
    "url": "https://belok.ua/ua/isoprime-cfm-500g-cookies-cream-1/",
-   "price": 1649.0,
+   "price": 1699.0,
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "53489": {
    "pid": "53489",
@@ -911,7 +911,7 @@
    "old_price": null,
    "in_stock": false,
    "labels": "",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   },
   "37732": {
    "pid": "37732",
@@ -922,13 +922,15 @@
    "old_price": null,
    "in_stock": true,
    "labels": "В наявності",
-   "scraped_at": "2026-09-17 08:51"
+   "scraped_at": "2026-09-18 08:27"
   }
  },
  "missing": {
-  "52359": 3,
-  "52529": 1,
-  "54109": 1
+  "52359": 4,
+  "52985": 1,
+  "53975": 1,
+  "54104": 1,
+  "50614": 1
  },
- "runs": 12
+ "runs": 13
 }
